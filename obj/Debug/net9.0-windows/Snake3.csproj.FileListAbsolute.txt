@@ -1,0 +1,14 @@
+C:\Users\ido\Documents\programming\snake\Snake3\obj\Debug\net9.0-windows\Snake3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ido\Documents\programming\snake\Snake3\obj\Debug\net9.0-windows\Snake3.AssemblyInfoInputs.cache
+C:\Users\ido\Documents\programming\snake\Snake3\obj\Debug\net9.0-windows\Snake3.AssemblyInfo.cs
+C:\Users\ido\Documents\programming\snake\Snake3\obj\Debug\net9.0-windows\Snake3.csproj.CoreCompileInputs.cache
+C:\Users\ido\Documents\programming\snake\Snake3\bin\Debug\net9.0-windows\Snake3.exe
+C:\Users\ido\Documents\programming\snake\Snake3\bin\Debug\net9.0-windows\Snake3.deps.json
+C:\Users\ido\Documents\programming\snake\Snake3\bin\Debug\net9.0-windows\Snake3.runtimeconfig.json
+C:\Users\ido\Documents\programming\snake\Snake3\bin\Debug\net9.0-windows\Snake3.dll
+C:\Users\ido\Documents\programming\snake\Snake3\bin\Debug\net9.0-windows\Snake3.pdb
+C:\Users\ido\Documents\programming\snake\Snake3\obj\Debug\net9.0-windows\Snake3.dll
+C:\Users\ido\Documents\programming\snake\Snake3\obj\Debug\net9.0-windows\refint\Snake3.dll
+C:\Users\ido\Documents\programming\snake\Snake3\obj\Debug\net9.0-windows\Snake3.pdb
+C:\Users\ido\Documents\programming\snake\Snake3\obj\Debug\net9.0-windows\Snake3.genruntimeconfig.cache
+C:\Users\ido\Documents\programming\snake\Snake3\obj\Debug\net9.0-windows\ref\Snake3.dll
